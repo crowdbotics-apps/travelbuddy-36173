@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-chat](modules/chat)
 - [react-native-app-menu](modules/app-menu)
 - [screen-activity-feed](screens/activity-feed)
+- [screen-add-card-details](screens/add-card-details)
 
 # Getting started: Frontend
 
