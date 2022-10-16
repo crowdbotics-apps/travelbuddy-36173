@@ -1005,7 +1005,10 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@modules/chat@file:./modules/chat/":
+"@modules/app-menu@file:./modules/app-menu/":
+  version "1.0.0"
+
+"@modules/chat@file:./modules/chat":
   version "1.0.0"
   dependencies:
     pubnub "^4.29.11"
